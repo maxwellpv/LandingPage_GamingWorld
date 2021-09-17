@@ -32,7 +32,7 @@ a{
     text-decoration: none;
 }
 
-.sec-nosotros {
+.sec-aboutus {
     background-image: url('../img/Fondo3.jpg');
     background-size: cover !important;
 }
@@ -94,7 +94,7 @@ a{
 
 
 
-    .sec-nosotros .titulo{
+    .sec-aboutus .title{
         padding-top-top: 4vw !important;
         margin-bottom: 4vw !important;
     }
@@ -154,7 +154,7 @@ a{
 
 
 
-    .plan-section .titulo {
+    .plan-section .title {
         padding-top: 8vh !important;
         margin-bottom: 8vh !important;
 
@@ -176,19 +176,19 @@ a{
         margin-bottom: max(5vw, 50px) !important;
     }
 
-    .sec-nosotros h2{
+    .sec-aboutus h2{
         color: white !important;
         font-size: 2vw !important;
         margin-bottom: 3vw;
     }
-    .sec-nosotros a{
+    .sec-aboutus a{
         color: white !important;
         font-size: 2vw !important;
 
     }
 
 
-    .sec-nosotros h1{
+    .sec-aboutus h1{
         color: white !important;
         font-size: 3.5vw !important;
     }
@@ -357,7 +357,7 @@ a{
     }
 
 
-    .plan-section .titulo {
+    .plan-section .title {
         padding-top: max(15vh, 50px) !important;
         margin-bottom: 8vh !important;
 
@@ -372,22 +372,22 @@ a{
         margin-bottom: max(5vw, 50px) !important;
     }
 
-    .sec-nosotros h2{
+    .sec-aboutus h2{
         color: white !important;
         font-size: 8vw !important;
     }
-    .sec-nosotros a{
+    .sec-aboutus a{
         color: white !important;
         font-size: 8vw !important;
     }
 
-    .sec-nosotros h1{
+    .sec-aboutus h1{
         padding-top: max(10vh, 50px) !important;
         color: white !important;
         font-size: max(12vw,20px) !important;
     }
 
-    .sec-nosotros h2{
+    .sec-aboutus h2{
         margin-bottom: max(8vw, 20px);
     }
 
@@ -451,7 +451,7 @@ a{
     font-size: max(1.5vw,20px) !important;
 }
 
-.sec-nosotros h2 a{
+.sec-aboutus h2 a{
     font-size: max(2.5vw,35px) !important;
 }
 
