@@ -15,7 +15,6 @@ body{
     background-color: #1B191D;
 }
 
-
 .bg-custom {
     background-color: rgb(20, 21, 26);
 }
@@ -36,9 +35,6 @@ a{
     background-image: url('../img/Fondo3.jpg');
     background-size: cover !important;
 }
-
-
-
 
 /* Mayor a 990 */
 @media (min-width: 990px) {
@@ -80,7 +76,6 @@ a{
 
     }
 
-
     /*Novedades Imagenes*/
     .img-fluid{
         border-radius: 50px !important;
@@ -92,10 +87,8 @@ a{
         font-size: max(1.5vw,25px);
     }
 
-
-
     .sec-aboutus .title{
-        padding-top-top: 4vw !important;
+        padding-top: 4vw !important;
         margin-bottom: 4vw !important;
     }
 
@@ -107,13 +100,10 @@ a{
 
     }
 
-
-
     .sec1 p {
         font-size: max(2.7vh, 55px) !important;
         color: #707070;
     }
-
 
     button {
         border: none;
@@ -229,13 +219,7 @@ a{
         width: 30rem;
     }
 
-
-
-
-
 }
-
-
 
 /* Menor a 990 */
 @media (max-width: 990px) {
@@ -304,16 +288,11 @@ a{
         font-size: 6vw !important;
     }
 
-
-
     .textBox{
 
         color: white;
 
     }
-
-
-
 
     button {
         border: none;
