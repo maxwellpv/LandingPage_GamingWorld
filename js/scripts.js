@@ -60,11 +60,11 @@ aLangKeys['en']['tips']='Tips, Tasks and Torunaments';
 aLangKeys['en']['large-text-3']='Improve your skills by following tasks and attending tournaments organized by the same community.';
 aLangKeys['en']['video']='Video About The Product';
 aLangKeys['en']['choose']='Choose your plan';
-aLangKeys['en']['things']='Features: Gamer Amateur - Streamer Amateur - Tips and tasks';
+aLangKeys['en']['things']='Features: Gamer Amateur - Streamer Amateur - Tips, tasks and tournaments creation';
 aLangKeys['en']['amount']='USD/month';
 aLangKeys['en']['selected']='SELECT';
 aLangKeys['en']['select-2']='SELECT';
-aLangKeys['en']['things-2']='Features: All features from Free Plan - Matchmaking';
+aLangKeys['en']['things-2']='Features: All features from Free Plan - Tourmament Management';
 aLangKeys['en']['about-us']='ABOUT US';
 aLangKeys['en']['request']='Request Information';
 aLangKeys['en']['name']='Name';
@@ -73,6 +73,7 @@ aLangKeys['en']['city']='City';
 aLangKeys['en']['email']='Email';
 aLangKeys['en']['send']='Send';
 aLangKeys['en']['social-media']='SOCIAL NETWORKS';
+aLangKeys['en']['team']='Video About The Team';
 
 aLangKeys['es']['home']='Principal';
 aLangKeys['es']['news']='Noticias';
@@ -90,11 +91,11 @@ aLangKeys['es']['tips']='Tips, Tareas y Torneos';
 aLangKeys['es']['large-text-3']='Mejora tus habilidades siguiendo tareas y asistiendo a torneos organizados por la misma comunidad.';
 aLangKeys['es']['video']='Video Sobre El Producto';
 aLangKeys['es']['choose']='Selecciona un plan';
-aLangKeys['es']['things']='Beneficios: Gamer Amateur - Streamer Amateur - Tips, Tareas y Torneos';
+aLangKeys['es']['things']='Beneficios: Gamer Amateur - Streamer Amateur - Tips, Tareas y Creaciones de torneos';
 aLangKeys['es']['amount']='USD/por mes';
 aLangKeys['es']['selected']='SELECCIONAR';
 aLangKeys['es']['select-2']='SELECCIONAR';
-aLangKeys['es']['things-2']='Beneficios: Todo lo mencionado en el plan Free - Matchmaking';
+aLangKeys['es']['things-2']='Beneficios: Todo lo mencionado en el plan Free - Administracion de Torneos';
 aLangKeys['es']['about-us']='SOBRE NOSOTROS';
 aLangKeys['es']['request']='Solicitar Información';
 aLangKeys['es']['name']='Nombre';
@@ -103,6 +104,7 @@ aLangKeys['es']['city']='Ciudad';
 aLangKeys['es']['email']='Correo';
 aLangKeys['es']['send']='Enviar';
 aLangKeys['es']['social-media']='REDES SOCIALES';
+aLangKeys['es']['team']='Video Acerca del Equipo';
 
 $(document).ready(function() {
 
